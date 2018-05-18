@@ -30,4 +30,7 @@
    to have an icon and never have text. ( https://material.io/design/components/buttons.html#anatomy )
 1. The Ripple effect is supposed to be the used pressing down on a peice of material with their finger causing it to "ripple" throughout
    the z-axis of the screen.
-1. The element covering and darkening content to focus on a nav drawer or dialog is called a "Scrim"
+1. The element covering and darkening content to focus on a nav drawer or dialog is called a "Scrim". Applying them is called a
+   "treatment".
+1. Elevations of all the components are available here: https://material.io/design/environment/elevation.html
+1. Device Independant Pixels are an abstraction that interpolate's to different lengths on different platforms. For example, on the        Android operating system a device-independent pixel is equivalent to one physical pixel on a 160 dpi screen, while the Windows          Presentation Foundation specifies one device-independent pixel as equivalent to 1/96th of an inch.
