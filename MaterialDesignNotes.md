@@ -15,7 +15,7 @@
    c. Logo needs to go elsewhere, like the nav drawer.
    d. Search box needs to be replaced by a simple magnifying glass
 1. The buttons on our cards are non-complient.  They are not toggle buttons but they have no text.  All buttons that 
-   are not toggle buttons *always* have text and the icon is optional. 
+   are not toggle buttons _always_ have text and the icon is optional. 
 
 ## Observations
 1. The vertical three dots menu ( kabob menu ) is consistently being referred to as the icon for the "overflow menu".  I think 
