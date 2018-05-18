@@ -1,7 +1,6 @@
 
 # Material Design Notes
 
-
 ## Problems
 1. I am not currently using dps as the units of measurement
 1. Nav/Overflow Menu has no elevation
@@ -16,6 +15,11 @@
    d. Search box needs to be replaced by a simple magnifying glass
 1. The buttons on our cards are non-complient.  They are not toggle buttons but they have no text.  All buttons that 
    are not toggle buttons _always_ have text and the icon is optional. 
+1. The ripple effect cannot be red
+
+## Suggestions
+1. In the material spec, the section regarding how Material can grow to reveal other content looks like the property we should use
+   to reveal the controls on a selected card for channels, files, etc. https://material.io/design/environment/surfaces.html#attributes
 
 ## Observations
 1. The vertical three dots menu ( kabob menu ) is consistently being referred to as the icon for the "overflow menu".  I think 
@@ -24,3 +28,5 @@
    a. Scott Ortel didn't like the idea of there being a menu there I think...
 1. Buttons on the filter panel are one of the four material button types referred to as "toggle buttons". Toggle buttons always appear
    to have an icon and never have text. ( https://material.io/design/components/buttons.html#anatomy )
+1. The Ripple effect is supposed to be the used pressing down on a peice of material with their finger causing it to "ripple" throughout
+   the z-axis of the screen.
