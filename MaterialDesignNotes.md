@@ -19,7 +19,7 @@
 
 ## Suggestions
 1. In the material spec, the section regarding how Material can grow to reveal other content looks like the property we should use
-   to reveal the controls on a selected card for channels, files, etc. https://material.io/design/environment/surfaces.html#attributes
+   to reveal the controls on a selected card for channels, files, etc. https://material.io/design/environment/surfaces.html#attributes.      Look at "Stretchable Surfaces" in the same section as well 
 
 ## Observations
 1. The vertical three dots menu ( kabob menu ) is consistently being referred to as the icon for the "overflow menu".  I think 
@@ -30,3 +30,4 @@
    to have an icon and never have text. ( https://material.io/design/components/buttons.html#anatomy )
 1. The Ripple effect is supposed to be the used pressing down on a peice of material with their finger causing it to "ripple" throughout
    the z-axis of the screen.
+1. The element covering and darkening content to focus on a nav drawer or dialog is called a "Scrim"
