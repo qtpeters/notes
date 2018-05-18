@@ -14,9 +14,13 @@
    b. Filters are in the way of the hamburger menu's nav drawer
    c. Logo needs to go elsewhere, like the nav drawer.
    d. Search box needs to be replaced by a simple magnifying glass
+1. The buttons on our cards are non-complient.  They are not toggle buttons but they have no text.  All buttons that 
+   are not toggle buttons *always* have text and the icon is optional. 
 
 ## Observations
 1. The vertical three dots menu ( kabob menu ) is consistently being referred to as the icon for the "overflow menu".  I think 
    that means it's a junk drawer.  The spec always shows it in the top right hand corner all the way because it's for the extra 
    relativly unimportant stuff.
-   a. Scott Ortel didn't like the idea of there being a menu there I think...  
+   a. Scott Ortel didn't like the idea of there being a menu there I think...
+1. Buttons on the filter panel are one of the four material button types referred to as "toggle buttons". Toggle buttons always appear
+   to have an icon and never have text. ( https://material.io/design/components/buttons.html#anatomy )
