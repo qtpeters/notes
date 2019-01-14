@@ -1,0 +1,8 @@
+
+autoformat html: 
+
+install tidy
+
+then
+:'<,'> !tidy -i -q --show-body-only
+
